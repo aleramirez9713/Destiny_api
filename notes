@@ -1,0 +1,27 @@
+{
+         
+ "name": "Casa de Andy",
+    "description": "ggthyhy",
+    "latitude": "77.8585",
+    "lenghtPlace": "15.8595",
+    "typePlace": "Personal",
+    "availability": "Disponible",  
+    "referencePoints":
+         [ {
+  "nameRP": "Casa de Andy",
+    "latitudeRP": "77.8585",
+    "lenghtRP": "15.8595"
+    },
+    {
+  "nameRP": "Casa de Andy",
+    "latitudeRP": "77.8585",
+    "lenghtRP": "15.8595"
+    },
+    {
+  "nameRP": "Casa de Andy",
+    "latitudeRP": "77.8585",
+    "lenghtRP": "15.8595"
+    }
+         
+           ]
+         }
